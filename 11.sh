@@ -8,5 +8,5 @@ case $choice in
     a)date;;
     b)ls -lrt;;
     c)pwd;;
-    *)echo "Provide Valid Input"
+    *)echo "Provide Valid Input";;
 esac
